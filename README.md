@@ -9,7 +9,7 @@
 
 ## Giới thiệu
 
-Đần Sen Pathfiding - Smartway Senpath là đồ án môn học Trí Tuệ Nhân Tạo trường đại học Mở TP.HCM nhằm giúp sinh viên hiểu rõ hơn về cách thức hoạt động của các thuật toán giải thuật
+Đần Sen Pathfiding - Smartway Senpath là đồ án môn học Trí Tuệ Nhân Tạo thuộc trường đại học Mở TP.HCM nhằm giúp sinh viên hiểu rõ hơn về cách thức hoạt động của các thuật toán giải thuật <br>
 Đần Sen Pathfiding là một ứng dụng web trực quan giúp người dùng tìm đường đi ngắn nhất trong công viên Đầm Sen qua bản đồ được số hoá. Dự án gồm hai phần:
 - **Frotnend**:  HTML/CSS/JS, sử dụng Canvas API để hiển thị bản đồ, node, edge và highlight đường đi.
 - **Backend**: Python Flask, cung cấp API /api/graph, quản lý dữ liệu graph (nodes, edges) từ file graph.json.
